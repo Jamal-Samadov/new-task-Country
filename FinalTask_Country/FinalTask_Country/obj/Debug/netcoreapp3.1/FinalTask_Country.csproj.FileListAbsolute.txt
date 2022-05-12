@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\bin\Debug\netcoreapp3.1\FinalTask_Country.exe
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\bin\Debug\netcoreapp3.1\FinalTask_Country.deps.json
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\bin\Debug\netcoreapp3.1\FinalTask_Country.runtimeconfig.json
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\bin\Debug\netcoreapp3.1\FinalTask_Country.runtimeconfig.dev.json
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\bin\Debug\netcoreapp3.1\FinalTask_Country.dll
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\bin\Debug\netcoreapp3.1\FinalTask_Country.pdb
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\obj\Debug\netcoreapp3.1\FinalTask_Country.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\obj\Debug\netcoreapp3.1\FinalTask_Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\obj\Debug\netcoreapp3.1\FinalTask_Country.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\obj\Debug\netcoreapp3.1\FinalTask_Country.AssemblyInfo.cs
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\obj\Debug\netcoreapp3.1\FinalTask_Country.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\obj\Debug\netcoreapp3.1\FinalTask_Country.dll
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\obj\Debug\netcoreapp3.1\FinalTask_Country.pdb
+C:\Users\User\Desktop\Final Task_Country\FinalTask_Country\FinalTask_Country\obj\Debug\netcoreapp3.1\FinalTask_Country.genruntimeconfig.cache
